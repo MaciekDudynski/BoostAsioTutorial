@@ -1,0 +1,1 @@
+g++ -L/usr/lib -Wall -Werror -o $1 $1.cpp -lboost_system -lboost_thread -pthread
